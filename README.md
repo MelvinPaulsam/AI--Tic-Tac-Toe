@@ -1,7 +1,7 @@
 # AI-Tic-Tac-Toe
 Tic Tac Toe using alpha beta pruning.
 
-#Using Alpha-Beta Pruning:
+## Using Alpha-Beta Pruning:
 
 >Alpha–beta pruning is a search algorithm that seeks to decrease the number of nodes that are evaluated by the minimax algorithm in its search tree.It is for a 2 player game.It can be applied to tic tac toe since its computationally possible to find all the possible states,unlike Chess.
 
